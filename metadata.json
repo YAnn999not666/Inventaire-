@@ -1,0 +1,6 @@
+{
+  "name": "Inventaire Quotidien",
+  "description": "Outil simple de saisie d'inventaire quotidien par catégorie et tranche de prix sans calcul de montant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
